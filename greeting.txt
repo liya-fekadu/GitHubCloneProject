@@ -1,1 +1,0 @@
-Hello, this is a massage from my cloned repository!
